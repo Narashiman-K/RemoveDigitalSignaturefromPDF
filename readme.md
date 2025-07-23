@@ -1,6 +1,6 @@
 # PDF Signature Removal and Processing Tool
 
-A .NET console application that loads a PDF, detects and removes all digital signatures using the GdPicture SDK, and saves a processed copy without signatures.
+A Nutrient .NET console application that loads a PDF, detects and removes all digital signatures using the GdPicture SDK, and saves a processed copy without signatures.
 
 ---
 

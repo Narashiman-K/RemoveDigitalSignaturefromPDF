@@ -52,7 +52,7 @@ A Nutrient .NET console application that loads a PDF, detects and removes all di
    ```xml
    <PropertyGroup>
      <OutputType>Exe</OutputType>
-     <TargetFramework>net6.0-windows</TargetFramework>
+     <TargetFramework>net8.0-windows</TargetFramework>
      <UseWindowsForms>true</UseWindowsForms>
    </PropertyGroup>
    ```
@@ -81,8 +81,8 @@ A Nutrient .NET console application that loads a PDF, detects and removes all di
 
 2. **Follow the prompts**:
 
-   - **Input PDF path**: Enter the full path to the source PDF.
-   - **Output PDF path**: Accept the default or specify a custom path.
+   - **Input PDF path**: Enter the full path to the source PDF with double quotes
+   - **Output PDF path**: Accept the default or specify a custom path with double quotes.
 
 3. **Processing**:
 
@@ -94,8 +94,8 @@ A Nutrient .NET console application that loads a PDF, detects and removes all di
 
    ```text
    Enter the path to your PDF file:
-   C:\Docs\signed-document.pdf
-   Output will be saved as: C:\Docs\signed-document_ProcessedNoSignatures.pdf
+   "C:\Docs\signed-document.pdf"
+   Output will be saved as: "C:\Docs\signed-document_ProcessedNoSignatures.pdf"
    ```
 
 ---
@@ -111,19 +111,11 @@ remove-digital-signature-console-app/
 
 ---
 
-## Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to:
-
-- Fork the repository
-- Create a new branch for your feature or bugfix
-- Submit a pull request
-
-Please follow the project’s coding conventions and include descriptive commit messages.
+## Author
+[Narashiman Krishnamurthy](https://www.linkedin.com/in/narashimank/)
 
 ---
 
 ## License
-
-Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
+Contact Nutrient sales for License.
 

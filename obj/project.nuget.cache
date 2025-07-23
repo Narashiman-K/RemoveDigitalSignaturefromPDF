@@ -1,0 +1,42 @@
+{
+  "version": 2,
+  "dgSpecHash": "fvYFgXK86F0=",
+  "success": true,
+  "projectFilePath": "D:\\PSPDFKit Projects\\DotNet PSPDFKit Projects\\remove-digital-signature-console-app\\remove-digital-signature-console-app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\naras\\.nuget\\packages\\bouncycastle.cryptography\\2.5.0\\bouncycastle.cryptography.2.5.0.nupkg.sha512",
+    "C:\\Users\\naras\\.nuget\\packages\\documentformat.openxml\\3.2.0\\documentformat.openxml.3.2.0.nupkg.sha512",
+    "C:\\Users\\naras\\.nuget\\packages\\documentformat.openxml.framework\\3.2.0\\documentformat.openxml.framework.3.2.0.nupkg.sha512",
+    "C:\\Users\\naras\\.nuget\\packages\\gdpicture\\14.3.10\\gdpicture.14.3.10.nupkg.sha512",
+    "C:\\Users\\naras\\.nuget\\packages\\gdpicture.runtimes.windows\\14.3.10\\gdpicture.runtimes.windows.14.3.10.nupkg.sha512",
+    "C:\\Users\\naras\\.nuget\\packages\\microsoft.aspnet.webapi.client\\6.0.0\\microsoft.aspnet.webapi.client.6.0.0.nupkg.sha512",
+    "C:\\Users\\naras\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\naras\\.nuget\\packages\\microsoft.visualbasic\\10.3.0\\microsoft.visualbasic.10.3.0.nupkg.sha512",
+    "C:\\Users\\naras\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.7\\microsoft.win32.systemevents.9.0.7.nupkg.sha512",
+    "C:\\Users\\naras\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\naras\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\naras\\.nuget\\packages\\openmcdf\\2.4.1\\openmcdf.2.4.1.nupkg.sha512",
+    "C:\\Users\\naras\\.nuget\\packages\\protobuf-net\\3.2.46\\protobuf-net.3.2.46.nupkg.sha512",
+    "C:\\Users\\naras\\.nuget\\packages\\protobuf-net.core\\3.2.46\\protobuf-net.core.3.2.46.nupkg.sha512",
+    "C:\\Users\\naras\\.nuget\\packages\\rtfpipe\\2.0.7677.4303\\rtfpipe.2.0.7677.4303.nupkg.sha512",
+    "C:\\Users\\naras\\.nuget\\packages\\system.collections.immutable\\8.0.0\\system.collections.immutable.8.0.0.nupkg.sha512",
+    "C:\\Users\\naras\\.nuget\\packages\\system.drawing.common\\9.0.7\\system.drawing.common.9.0.7.nupkg.sha512",
+    "C:\\Users\\naras\\.nuget\\packages\\system.io.packaging\\8.0.1\\system.io.packaging.8.0.1.nupkg.sha512",
+    "C:\\Users\\naras\\.nuget\\packages\\system.memory\\4.6.0\\system.memory.4.6.0.nupkg.sha512",
+    "C:\\Users\\naras\\.nuget\\packages\\system.security.cryptography.pkcs\\8.0.1\\system.security.cryptography.pkcs.8.0.1.nupkg.sha512",
+    "C:\\Users\\naras\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512",
+    "C:\\Users\\naras\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'GdPicture 14.3.10' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net9.0'. This package may not be fully compatible with your project.",
+      "libraryId": "GdPicture",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}
